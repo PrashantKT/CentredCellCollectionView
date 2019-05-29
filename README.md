@@ -6,7 +6,7 @@ Easy way to create collection view with center item center.
 Logic behind 
 
  
-/*
+    
      *
      |<-------     view width     -------->|
      ---------------------------------------
@@ -24,4 +24,4 @@ Logic behind
      * ws: space
      * wi: itemWidth
      * in this example: ws == w0
-     */
+    
