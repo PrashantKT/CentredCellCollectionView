@@ -25,3 +25,13 @@ Logic behind
      * wi: itemWidth
      * in this example: ws == w0
     
+    
+    
+# How to try
+    
+
+First comment out  **AppDelegate.swift** Code in your existing demo or project. 
+Copy and paste  **AppDelegate.swift** code and give a try 
+
+    
+    
